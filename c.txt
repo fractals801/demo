@@ -6,4 +6,7 @@ afdsa
 segunda pendejada
 
 
-tercera pendejada
+tercera pendejada 
+
+
+cuarta pendejada sin hacerlo commit aun , para usar el commando diff
