@@ -1,2 +1,4 @@
 Esto es rich
 modificacion desde rich
+
+esto lo hice en feature para lugo acualizarlo en el branch de rich
